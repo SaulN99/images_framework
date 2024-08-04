@@ -1,66 +1,7 @@
-[submodule "detection/ssd16_detection"]
-	path = detection/ssd16_detection
-	url = git@github.com:pcr-upm/ssd16_detection.git
-[submodule "detection/retinanet17_detection"]
-	path = detection/retinanet17_detection
-	url = git@github.com:bobetocalo/retinanet17_detection.git
-[submodule "detection/scrdet19_detection"]
-	path = detection/scrdet19_detection
-	url = git@github.com:bobetocalo/scrdet19_detection.git
-[submodule "segmentation/unet15_segmentation"]
-	path = segmentation/unet15_segmentation
-	url = git@github.com:bobetocalo/unet15_segmentation.git
-[submodule "segmentation/ocr20_segmentation"]
-	path = segmentation/ocr20_segmentation
-	url = git@github.com:bobetocalo/ocr20_segmentation.git
-[submodule "recognition/resnet15_recognition"]
-	path = recognition/resnet15_recognition
-	url = git@github.com:bobetocalo/resnet15_recognition.git
-[submodule "alignment/ciarp17_headpose"]
-	path = alignment/ciarp17_headpose
-	url = git@github.com:bobetocalo/ciarp17_headpose.git
-[submodule "alignment/opal23_headpose"]
-	path = alignment/opal23_headpose
-	url = git@github.com:pcr-upm/opal23_headpose.git
-[submodule "alignment/kazemi14_landmarks"]
-	path = alignment/kazemi14_landmarks
-	url = git@github.com:bobetocalo/kazemi14_landmarks.git
-[submodule "detection/orp22_detection"]
-	path = detection/orp22_detection
-	url = git@github.com:bobetocalo/orp22_detection.git
-[submodule "alignment/dad22_landmarks"]
-	path = alignment/dad22_landmarks
-	url = git@github.com:bobetocalo/dad22_landmarks.git
-[submodule "alignment/efficientnet21_reconstruction"]
-	path = alignment/efficientnet21_reconstruction
-	url = git@github.com:bobetocalo/efficientnet21_reconstruction.git
-[submodule "alignment/openpose_landmarks"]
-	path = alignment/openpose_landmarks
-	url = git@github.com:bobetocalo/openpose_landmarks.git
-[submodule "recognition/ricardo24_recognition"]
-	path = recognition/ricardo24_recognition
-	url = git@github.com:pcr-upm/ricardo24_recognition.git
-[submodule "generation/controlnet23_generation"]
-	path = generation/controlnet23_generation
-	url = git@github.com:bobetocalo/controlnet23_generation.git
-[submodule "alignment/icits24_landmarks"]
-	path = alignment/icits24_landmarks
-	url = git@github.com:pcr-upm/icits24_landmarks.git
-[submodule "alignment/pami20_reconstruction"]
-	path = alignment/pami20_reconstruction
-	url = git@github.com:pcr-upm/pami20_reconstruction.git
-[submodule "recognition/dann16_recognition"]
-	path = recognition/dann16_recognition
-	url = git@github.com:pcr-upm/dann16_recognition.git
-[submodule "detection/arckpadel_detection"]
-	path = detection/arckpadel_detection
-	url = git@github.com:pcr-upm/arckpadel_detection.git
-[submodule "alignment/students_landmarks"]
-	path = alignment/students_landmarks
-	url = git@github.com:pcr-upm/students_landmarks.git
 [submodule "alignment/students_headpose"]
 	path = alignment/students_headpose
-	url = git@github.com:pcr-upm/students_headpose.git
-[submodule "alignment/wdann_headpose"]
-	path = alignment/wdann_headpose
-	url = git@github.com:pcr-upm/wdann_headpose.git
+	url = https://github.com/SaulN99/students_headpose
+
+[submodule "detection/ssd16_detection"]
+	path = detection/ssd16_detection
+	url = https://github.com/pcr-upm/ssd16_detection

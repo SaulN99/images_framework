@@ -2,4 +2,11 @@
 *.pyc 
 # PyCharm
 .idea/
+# Predictions output dir
+output/images/
+# PyCache
+__pycache__/
+# video files
+*.mp4
+
 
